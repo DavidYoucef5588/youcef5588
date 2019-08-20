@@ -11,7 +11,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By :Youcef#6531' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Army Commuiny`,"http://twitch.tv/Death Shop")
+client.user.setGame(`Rewards Network`,"http://twitch.tv/Death Shop")
 client.user.setStatus("dnd")
 });
 
